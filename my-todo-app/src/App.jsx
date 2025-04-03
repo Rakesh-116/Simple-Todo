@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <h1>Todo App</h1>
+      <h1>Simple Todo Master Application</h1>
     </div>
   );
 }
